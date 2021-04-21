@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with [Create React App](https://github.com/facebook/create-react-app) and [MUI CSS](https://materializecss.com/)
+
+## Demo
+[Open demo](https://fillsen.github.io/react-movies/)
 
 ## Available Scripts
 
