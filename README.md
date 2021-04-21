@@ -18,4 +18,4 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## P.S.
-I dont want to hide API key. So I know about it.
+I dont want to hide API key. So I know about [it](https://i.imgur.com/F2LAggo.png).
