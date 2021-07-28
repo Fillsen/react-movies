@@ -2,9 +2,6 @@
 
 This project was created with [Create React App](https://github.com/facebook/create-react-app) and [MUI CSS](https://materializecss.com/)
 
-## Demo
-[Open demo](https://fillsen.github.io/react-movies/)
-
 ## Available Scripts
 
 In the project directory, you can run:
