@@ -1,0 +1,18 @@
+.App {
+    margin-bottom: 60px;
+}
+
+.search-btn {
+    position: absolute;
+    top: 0;
+    right: 0.5rem;
+}
+
+/*.btn-repo {*/
+/*    position: relative;*/
+/*    margin: 1rem;*/
+/*}*/
+
+
+/* Test navPanel with material-ui */
+

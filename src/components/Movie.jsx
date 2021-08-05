@@ -13,7 +13,6 @@ function Movie(props) {
                 poster === 'N/A' ?
                     <img src={`https://via.placeholder.com/300x420?text=${title}`} alt=""/> : <img src={poster} alt=""/>
             }
-
             <span className="card-title">{title}</span>
             <a className="btn-floating halfway-fab waves-effect waves-light red">
                 <i className="material-icons">add</i></a>
